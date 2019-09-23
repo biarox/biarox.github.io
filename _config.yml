@@ -1,0 +1,122 @@
+# Site settings
+title: Rob Hinds
+twitter_username: rob_hinds
+name: Rob Hinds
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Blog
+   url: https://mygameprojectdesign.blogspot.com/
+ - title: GitHub
+   url: https://github.com/biarox 
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/biarox/
+
+#Any buzzword skills you want to include
+skills:
+ - User Research
+ - Data analysis
+ - Test application
+ - Slack
+ - Invision
+ - Zeplin
+ - Photoshop
+ - Figma
+ - League of Legends
+ - Design Thinking
+ - Python
+ - CSS
+ - HTML
+ - Scrum
+ - Jira
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+
+#Work experience is required
+roles:
+ - title: UX Designer
+   start: 2018
+   end: Ongoing
+   employer: Stefanini
+   description: Stefanini is a private Brazilian multinational, service and software provider, for data processing and consulting, with more than 25,000 employees in 40 countries across the Americas, Europe, Australia, and Asia.
+ - title: Community Manager
+   start: 2017
+   end: 2019
+   employer: Gimmer
+   description: Gimmer is an automated trading platform that offers bots which execute cryptocurrency trading operations such as lending, arbitrage, margin trading, etc.
+ - title: UX Designer / Front end
+   start: 2015
+   end: 2016
+   employer: Antar Qld
+   description: ANTaR Qld is an independent, national network of organisations and individuals working in support of justice for Aboriginal and Torres Strait Islander peoples of Queensland, Australia, since 1997.
+ - title: Art Director
+   start: 2002
+   end: 2014
+   employer: Sinprafarmas
+   description: Sinprafarmas is a labor union focused in defend the interests of the farmacists and drugstore workers.
+
+#Education is required
+education:
+ - level: Associate Degree (A.Dg.)
+   date: 2017
+   subject: Internet Systems
+   school: Faculty of Technology from Baixada Santista - FATEC
+ - level: Bachelor of Science (B.Sc.)
+   date: 2002
+   subject: Publicity & Advertising
+   school: Catholic University of Santos
+ - level: Certificate (extention)
+   date: 2015
+   subject: IT and Computer Science
+   school: Queensland University of Technology - QUT
+
+
+
+#This section is optional (as is the image link below)
+coursera:
+   profileurl: https://www.coursera.org/user/d13ffd884cb6aaca9dc6d859499048b6
+   courses:
+    - title: Agile meets Design Thinking
+      link: https://www.coursera.org/learn/uva-darden-getting-started-agile?
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      date: February 12, 2019
+    - title: Human-Centered Design
+      link: https://www.coursera.org/learn/human-computer-interaction?
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      date: Ongoing
+
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - biarox/robhinds.github.io
+ - biarox/seguran
+
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: https://avatars0.githubusercontent.com/u/1934896?s=460&v=4
+   
+
+intro: |
+  Hi, I am an User Experience Designer with 4 years experience, working in technology since 2002. I have primarily worked as a Graphic Designer and then moved to Web Designer. 
+
+  I love to work in a team. I've developed a mobile app using Xamarin, with three other colleagues, it was for an organisation that was focused on young women who recovered from cancer.
+
+My contribution to this application not only involved the creation, the name, the idea and the layout, but also organising the team, managing the tasks and presenting the project.
+
+As a result, the owner of this organisation chose our application as the best one among two other apps.
+
+This is how I feel when I deliver a project, a feeling of "mission accomplished" because I just love what I do and that's why I want to work in IT so much.
+
+I graduated in Internet Systems in December of 2017. I learned about Project Management and a lot of different programming languages such as C#, Python, Java and PHP.
+
+I love new technologies so I'm constantly going to events related to IT and also games - that is one of my hobbies. 
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>User Research</strong>: My current role requires a lot of research (to be continued...)<br/><br/>
+   <strong>User Testing</strong>: I am experienced in user testing.(to be continued...)
