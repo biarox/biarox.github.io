@@ -9,22 +9,31 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://mygameprojectdesign.blogspot.com/
+ - title: Behance
+   url: https://www.behance.net/biarox
+ - title: Codepen
+   url: https://codepen.io/biarox/full/ywGMjV
  - title: GitHub
    url: https://github.com/biarox 
  - title: LinkedIn
    url: https://www.linkedin.com/in/biarox/
+  - title: Blog
+   url: https://mygameprojectdesign.blogspot.com/
 
 #Any buzzword skills you want to include
 skills:
  - User Research
+ - User tests
  - Data analysis
  - Test application
  - A/B Testing
+ - Hotjar
+ - Google Analytics
  - Sketching
  - Wireframe
+ - Prototype
  - Figma
+ - Adobe XD
  - Invision
  - Zeplin
  - Photoshop
@@ -93,6 +102,10 @@ coursera:
       link: https://www.designcircuit.co/
       optionalimage: https://i.imgur.com/KUocDuZ.png
       date: Ongoing
+    - title: Responsive Webdesign
+      link: https://www.freecodecamp.org/certification/biarox/responsive-web-design
+      optionalimage: https://i.imgur.com/M5D8e17.png
+      date: April 11, 2019
 
 
 #List of interesting Github repo/projects to include - optional
