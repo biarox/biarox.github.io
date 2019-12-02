@@ -21,16 +21,16 @@ skills:
  - User Research
  - Data analysis
  - Test application
- - Slack
+ - A/B Testing
+ - Sketching
+ - Wireframe
+ - Figma
  - Invision
  - Zeplin
  - Photoshop
- - Figma
- - League of Legends
+ - Slack
  - Design Thinking
- - Python
- - CSS
- - HTML
+ - Agile methodologies
  - Scrum
  - Jira
 
@@ -70,7 +70,7 @@ education:
    date: 2002
    subject: Publicity & Advertising
    school: Catholic University of Santos
- - level: Certificate (extention)
+ - level: Certificate (extencion course)
    date: 2015
    subject: IT and Computer Science
    school: Queensland University of Technology - QUT
@@ -88,6 +88,10 @@ coursera:
     - title: Human-Centered Design
       link: https://www.coursera.org/learn/human-computer-interaction?
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      date: Ongoing
+    - title: UX by Design Circuit
+      link: https://www.designcircuit.co/
+      optionalimage: https://www.designcircuit.co/wp-content/uploads/2019/10/design-circuit4.jpg
       date: Ongoing
 
 
