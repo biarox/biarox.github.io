@@ -42,7 +42,7 @@ skills:
  - Jira
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://mygameprojectdesign.blogspot.com/feeds/posts/default?alt=json
+# blogfeed: https://mygameprojectdesign.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
@@ -116,13 +116,13 @@ stackoverflow:
    profileurl: https://avatars0.githubusercontent.com/u/1934896?s=460&v=4
    
 
-intro: |
+intro: 
   <h1>Hi I'm Beatriz Marques,</h1> 
   <h1>UX designer.</h1>
   <p>I’m passionate about creating usable digital products and I love to work as a team.</p>
   <p>I have 4 years experience as a User Experience Designer and I'm working as a Graphic Designer since 2002.</p>
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
+additionalinfo: 
     <h4><strong>Lean Inception + Design Thinking = Deep Dive</strong>:</h4> 
     <div>
     <h2>I participated in the process of development of a new product for a Brazilian payment institution.</h2>
