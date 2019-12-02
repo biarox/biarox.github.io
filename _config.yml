@@ -91,7 +91,7 @@ coursera:
       date: Ongoing
     - title: UX by Design Circuit
       link: https://www.designcircuit.co/
-      optionalimage: https://i.ytimg.com/vi/TUxG8iffRBs/maxresdefault.jpg
+      optionalimage: https://i.imgur.com/KUocDuZ.png
       date: Ongoing
 
 
@@ -106,15 +106,18 @@ stackoverflow:
    
 
 intro: |
-  Hi, I am an User Experience Designer with 4 years experience, working in technology since 2002. I have primarily worked as a Graphic Designer and then moved to Web Designer. 
-
-  I love to work in a team. I've developed a mobile app using Xamarin, with three other colleagues, it was for an organisation that was focused on young women who recovered from cancer. My contribution to this application not only involved the creation, the name, the idea and the layout, but also organising the team, managing the tasks and presenting the project. As a result, the owner of this organisation chose our application as the best one among two other apps. This is how I feel when I deliver a project, a feeling of "mission accomplished" because I just love what I do and that's why I want to work in IT so much. I graduated in Internet Systems in December of 2017. I learned about Project Management and a lot of different programming languages such as C#, Python, Java and PHP. I love new technologies so I'm constantly going to events related to IT and also games - that is one of my hobbies. 
-
+  <div>
+  <h4>Hi I'm Beatriz Marques,</h4> 
+  <h4>UX designer.</h4>
+  </div>
+  <div>
+  <h2>I’m passionate about creating usable digital products and I love to work as a team.h2>
+  <p>I have 4 years experience as a User Experience Designer and I'm working as a Graphic Designer since 2002.</p>
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Lean Inception + Design Thinking = Deep Dive</strong>: 
     <div>
-    <h2>I participated in the process of development of a new product for a Brazilian payment institution. <h2><br/><br/>
+    <h2>I participated in the process of development of a new product for a Brazilian payment institution.</h2>
     <h2>I joined the development of this product since the beginning, which allowed me to contribute to the key features by matching the user needs and the business needs.</h2>
     </div>
     <div>
@@ -127,6 +130,7 @@ additionalinfo: |
     <li>I also created and delivered an interactive mockup at the end of the process using Figma.</li>
     </ul>
     </div>
+
     <div>
     <h2>Personas</h2>
     <p>Based on the interviews/workshop we set up twelve personas. We referred to them throughout the entire product concept process.</p>
@@ -136,6 +140,43 @@ additionalinfo: |
     </ul>
     </div>
 
+    <div>
+    <h2>User Journey</h2>
+    <p>We mapped out the users’ steps to see how we could simplify their journey to help them reach their most important goals with the product.</p>
+    </div>
 
-   <strong>User Testing</strong>: <h2>I participated in the process of development of a new product for a Brazilian payment institution. <h2><br/><br/>
-    <h2>I joined the development of this product since the beginning, which allowed me to contribute to the key features by matching the user needs and the business needs.</h2>
+    <div>
+    <h2>Functionality mapping</h2>
+    <p>To understand all the functionalities for each role we developed the functionality mapping.</p>
+    <ul>
+    <li>We prioritised each functionality by the difficulty of implementation and their importance in the product.</li>
+    <li>We divided the functionalities and which roles required each one of them.</li>
+    <li>We also marked the items that required more refinement for a future sprint.</li>
+    </ul>
+    </div>
+
+    <div>
+    <h2>Wireframes</h2>
+    <p>At the beginning of my design process, I created wireframes for testing purposes.</p>
+    <p>Pen and paper are my friends ^^</p>
+    <ul>
+    <li>After understanding the workflow of the system, I draw on paper how the components could be displayed on the screen.</li>
+    <li>Then I moved to the development of a low fidelity prototype, using Figma.</li>
+    </ul>
+    </div>
+
+   <strong>User Testing application</strong>: 
+   <div>
+   <h2>NGC (Negociação Grandes Contas) was an internal system focused on the big players in the financial market.</h2>
+   </div>
+
+   <div>
+   <p>I managed to work on the conception of the idea, where I could assist from the beginning of this project. After understanding the business and the manager's problems I was able to apply some methodologies to help in the process of the development of this product.</p>
+   <p>The initial state was an obsolete system that only worked using Internet Explorer 6, the layout and menu content was confusing and full of irrelevant information.</p>
+    <ul>
+    <li>The Product Owner didn't want to recycle any of the old system's database and wanted to build a brand new system with an intuitive and cleaner layout.</li>
+    <li>The Development Team decided to use Angular 7 on the Front End so this decision made the whole UI prototype creation easier for me. I used the Angular components to create a simple and intuitive layout for the users.</li>
+    <li>The company calls their credit card reader sellers "hunters", and they are the final user of the NGC. They used to complain about the complexity of how the information was displayed in the old system. With that, the managers decided to build a new, responsive, user-friendly system.</li>
+    <li>The main challenge I faced was to maintain the UI two sprints ahead of the developers. It was not about the creative part of the process that I was concerned, but about validating it with the users. Sometimes they were very hard to reach and I had to validate the features with the PM and PO only. I'm not saying that this is a bad thing, but building a product based on human-centred Design is the key success, and nobody is better than the final user to validate the product.</li>
+    </ul>
+   </div>
