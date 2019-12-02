@@ -9,16 +9,14 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Behance
-   url: https://www.behance.net/biarox
- - title: Codepen
-   url: https://codepen.io/biarox/full/ywGMjV
  - title: GitHub
    url: https://github.com/biarox 
  - title: LinkedIn
    url: https://www.linkedin.com/in/biarox/
  - title: Blog
    url: https://mygameprojectdesign.blogspot.com/
+ - title: Behance
+   url: https://www.behance.net/biarox
 
 #Any buzzword skills you want to include
 skills:
