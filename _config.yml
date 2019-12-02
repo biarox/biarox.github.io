@@ -106,19 +106,16 @@ stackoverflow:
    
 
 intro: |
-  <div>
-  <h4>Hi I'm Beatriz Marques,</h4> 
-  <h4>UX designer.</h4>
-  </div>
-  <div>
-  <h2>I’m passionate about creating usable digital products and I love to work as a team.h2>
+  <h1>Hi I'm Beatriz Marques,</h1> 
+  <h1>UX designer.</h1>
+  <p>I’m passionate about creating usable digital products and I love to work as a team.</p>
   <p>I have 4 years experience as a User Experience Designer and I'm working as a Graphic Designer since 2002.</p>
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Lean Inception + Design Thinking = Deep Dive</strong>: 
+    <h4><strong>Lean Inception + Design Thinking = Deep Dive</strong>:</h4> 
     <div>
     <h2>I participated in the process of development of a new product for a Brazilian payment institution.</h2>
-    <h2>I joined the development of this product since the beginning, which allowed me to contribute to the key features by matching the user needs and the business needs.</h2>
+    <p>I joined the development of this product since the beginning, which allowed me to contribute to the key features by matching the user needs and the business needs.</p>
     </div>
     <div>
     <ul>
@@ -165,7 +162,9 @@ additionalinfo: |
     </ul>
     </div>
 
-   <strong>User Testing application</strong>: 
+    <div></div>
+
+   <h4><strong>User Testing application</strong>:</h4> 
    <div>
    <h2>NGC (Negociação Grandes Contas) was an internal system focused on the big players in the financial market.</h2>
    </div>
