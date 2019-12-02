@@ -91,7 +91,7 @@ coursera:
       date: Ongoing
     - title: UX by Design Circuit
       link: https://www.designcircuit.co/
-      optionalimage: https://www.designcircuit.co/wp-content/uploads/2019/10/design-circuit4.jpg
+      optionalimage: https://i.ytimg.com/vi/TUxG8iffRBs/maxresdefault.jpg
       date: Ongoing
 
 
@@ -112,5 +112,30 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>User Research</strong>: My current role requires a lot of research (to be continued...)<br/><br/>
-   <strong>User Testing</strong>: I am experienced in user testing.(to be continued...)
+   <strong>Lean Inception + Design Thinking = Deep Dive</strong>: 
+    <div>
+    <h2>I participated in the process of development of a new product for a Brazilian payment institution. <h2><br/><br/>
+    <h2>I joined the development of this product since the beginning, which allowed me to contribute to the key features by matching the user needs and the business needs.</h2>
+    </div>
+    <div>
+    <ul>
+    <li>It was a new product focused on the payment of car tolls and debts. It required some study of the Brazilian Federal laws regarding payment and research of the law from each specific state.</li>
+    <li>The target audience was people that own a vehicle (cars only) and had any debts to be paid.</li>
+    <li>The product was created to make the payment easier by allowing the car owners to pay their debts in instalments.</li>
+    <li>The challenge was to ideate, prototype and test an MVP in a small state and after that expand the business to the entire country.</li>
+    <li>My role was to support the Agile Coach in the meetings, helping with the applied methodologies, using post-its, gathering the attention of the business crew, maintaining a productive environment.</li>
+    <li>I also created and delivered an interactive mockup at the end of the process using Figma.</li>
+    </ul>
+    </div>
+    <div>
+    <h2>Personas</h2>
+    <p>Based on the interviews/workshop we set up twelve personas. We referred to them throughout the entire product concept process.</p>
+    <ul>
+    <li>We listed all the users that will have direct contact with the system, from the stakeholders, finance to the final user.</li>
+    <li>We used the personas to determine what each user needed from the system, and found out how many user roles were necessary to log in to the system as well.</li>
+    </ul>
+    </div>
+
+
+   <strong>User Testing</strong>: <h2>I participated in the process of development of a new product for a Brazilian payment institution. <h2><br/><br/>
+    <h2>I joined the development of this product since the beginning, which allowed me to contribute to the key features by matching the user needs and the business needs.</h2>
